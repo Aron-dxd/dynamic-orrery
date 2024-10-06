@@ -1,6 +1,6 @@
 # Create an Orrery Web App that Displays Near-Earth Objects
 
-This project is a submission for the web app created as part of the NASA Space Apps Challenge. An orrery can depict various types of celestial bodies, including planets, **Near-Earth Comets (NEC)**, **Near-Earth Asteroids (NEA)**, and a subset of NEAs called **Potentially Hazardous Asteroids (PHA)**. Collectively, NEC, NEA, and PHA are known as **Near-Earth Objects (NEO)**. 
+This project is a submission for the web app created as part of the NASA Space Apps Challenge. An orrery can depict various types of celestial bodies, including planets, **Near-Earth Comets (NEC)**, **Near-Earth Asteroids (NEA)**, and a subset of NEAs called **Potentially Hazardous Asteroids (PHA)**. Collectively, NEC, NEA, and PHA are known as **Near-Earth Objects (NEO)**. It is live at https://aron-dxd.github.io/dynamic-orrery/
 
 This project aims to depict an interactive **dynamic orrery**, where the positions of celestial bodies such as planets, NECs, NEAs, and PHAs change over time to accurately reflect their orbital motion around the Sun.
 
